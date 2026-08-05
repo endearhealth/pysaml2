@@ -20,7 +20,7 @@ classifiers = [
 ]
 requires-python = ">= 3.10"
 dependencies = [
-  "cryptography >=40.0",
+  "cryptography >=50.0.0",
   "defusedxml",
   "requests >=2.0.0,<3.0.0",  # ^2 means compatible with 2.x
   "xmlschema >=2.0.0,<3.0.0"
